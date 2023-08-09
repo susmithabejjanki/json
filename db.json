@@ -92,10 +92,8 @@
           "https://i.dummyjson.com/data/products/15/4.jpg",
           "https://i.dummyjson.com/data/products/15/thumbnail.jpg"
         ]
-      }
-    ],
-    {
-        "products": [
+      },
+   
           {
             "id": 16,
             "title": "Hyaluronic Acid Serum",
@@ -191,4 +189,4 @@
           }
         ]
       }
-  }
+  
